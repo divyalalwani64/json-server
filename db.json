@@ -1,5 +1,4 @@
-{
-  "products": [
+ [
     {
       "id": 1,
       "name": "HP Laptops",
@@ -112,5 +111,4 @@
       "quantity": 16,
       "price": 16
     }
-  ]
-}
+ ]
